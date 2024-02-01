@@ -3,3 +3,5 @@ PCA components.svg
 .ipynb_checkpoints/Stitcher-checkpoint.ipynb
 .ipynb_checkpoints/PCA for de-gridding-checkpoint.ipynb
 brightness_checker_stitch.png
+brightness_checker_stitch_2.png
+stitched_thresholded.tif
