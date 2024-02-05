@@ -13,3 +13,8 @@ brightness_checker_priority.png
 stitched_thresholded_priority.tif
 brightness_checker_full_crystal.png
 stitched_thresholded_full_crystal.tif
+bottom_right_origin.png
+bottom_right_origin_thresholded.tif
+difference.tif
+top_left_origin.png
+top_left_origin_thresholded.tif
