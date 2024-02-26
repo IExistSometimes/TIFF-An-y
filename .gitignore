@@ -60,3 +60,12 @@ rote_calib_200.png
 arith_mean_stitched.png
 offset_stitched.png
 geo_mean_stitched.png
+arith_mean_fixed_rerun.png
+arith_mean_fixed_rerun_thresh.png
+offset_fixed_rerun_thresh.png
+offset_fixed_rerun.png
+multiple_geo_runs.png
+geo_mean_fixed_rerun_thresh.png
+geo_mean_fixed_thresh.png
+geo_mean_fixed.png
+geo_mean_fixed_rerun.png
